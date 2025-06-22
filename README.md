@@ -9,7 +9,7 @@
 ## 🧑‍💻 Hakkımda
 
 - 📱 Android uygulamaları geliştiriyorum.
-- ☕ Java & Spring Boot ile backend projeleri geliştiriyorum
+- ☕ Java & Spring Boot öğrenme yolculuğundayım, projelerle kendimi geliştiriyorum.
 - 🎯 Yeni teknolojiler öğrenmeye ve üretmeye açığım
 
 ---
