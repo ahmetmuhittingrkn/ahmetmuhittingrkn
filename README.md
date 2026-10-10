@@ -1,21 +1,21 @@
 ﻿<h1 align="center">Ahmet Muhittin Gürkan</h1>
 <p align="center">
-  <b>Computer Engineering Student @ Gazi University</b><br>
-  Backend Development · REST APIs · System Design
+  <b>Software Engineer</b><br>
+  Backend Geliştirme · REST API · Sistem Tasarımı
 </p>
 
 ---
 
-## 🧑‍💻 About
+## 🧑‍💻 Hakkımda
 
-- ☕ Building backend systems with **Java & Spring Boot**
-- 🗄️ Working with **PostgreSQL**, REST APIs and clean architecture
-- 📱 Android background — experienced with **Kotlin** & Jetpack Compose
-- 🎯 Looking for backend-focused opportunities
+- ☕ **Java & Spring Boot** ile backend sistemler geliştiriyorum
+- 🗄️ **PostgreSQL**, REST API ve temiz mimari üzerine çalışıyorum
+- 📱 Android geçmişim var — **Kotlin** & Jetpack Compose deneyimim mevcut
+- 🎯 Backend odaklı fırsatlar arıyorum
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Teknolojiler
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -29,20 +29,20 @@
 
 ---
 
-## 📌 Projects
+## 📌 Projeler
 
 - [**E-Commerce-Backend**](https://github.com/ahmetmuhittingrkn/E-Commerce-Backend)
-  <sub>Spring Boot e-commerce backend — REST API, JPA, PostgreSQL</sub>
+  <sub>Spring Boot e-ticaret backend — REST API, JPA, PostgreSQL</sub>
 
 - [**YardimEliBackend**](https://github.com/ahmetmuhittingrkn/YardimEliBackend)
-  <sub>Spring Boot backend for a disaster relief volunteer matching platform</sub>
+  <sub>Afetzede ve gönüllü eşleştirme platformu için Spring Boot backend</sub>
 
 - [**YardimEli**](https://github.com/ahmetmuhittingrkn/YardimEli)
-  <sub>Android app connecting disaster victims with volunteers — Kotlin, Jetpack Compose</sub>
+  <sub>Afetzede ve gönüllüleri buluşturan Android uygulaması — Kotlin, Jetpack Compose</sub>
 
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-muhittin-gürkan-52aab1219/" target="_blank">
